@@ -10,3 +10,5 @@ main/__pycache__/views.cpython-312.pyc
 main/migrations/__pycache__/__init__.cpython-312.pyc
 www.py
 db.sqlite3
+goods/__pycache__/views.cpython-312.pyc
+media/
